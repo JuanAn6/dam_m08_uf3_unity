@@ -1,0 +1,45 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio cache
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Crash logs
+sysinfo.txt
+
+# Unity Cloud Build
+.cloudbuild/
+
+# Auto-generated Jetbrains Rider
+.idea/
+
+# Exclude large asset types if needed (optional)
+*.psd
+*.wav
+*.mp4
+*.avi
+*.fbx
+
+# Exclude compressed files
+*.rar
+*.zip

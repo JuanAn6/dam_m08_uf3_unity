@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DAM2\\M08\\UF3\\space_shooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6D40A6-EB4C-AA94-F563-2C2FE5050EAD}|Assembly-CSharp.csproj|c:\\dam2\\m08\\uf3\\space_shooter\\assets\\scripts\\healthlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6D40A6-EB4C-AA94-F563-2C2FE5050EAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6D40A6-EB4C-AA94-F563-2C2FE5050EAD}|Assembly-CSharp.csproj|c:\\dam2\\m08\\uf3\\space_shooter\\assets\\scripts\\healthbarscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6D40A6-EB4C-AA94-F563-2C2FE5050EAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbarscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6D40A6-EB4C-AA94-F563-2C2FE5050EAD}|Assembly-CSharp.csproj|c:\\dam2\\m08\\uf3\\space_shooter\\assets\\scripts\\menucontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6D40A6-EB4C-AA94-F563-2C2FE5050EAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menucontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6D40A6-EB4C-AA94-F563-2C2FE5050EAD}|Assembly-CSharp.csproj|C:\\DAM2\\M08\\UF3\\space_shooter\\assets\\scripts\\asteroidscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6D40A6-EB4C-AA94-F563-2C2FE5050EAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\asteroidscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6D40A6-EB4C-AA94-F563-2C2FE5050EAD}|Assembly-CSharp.csproj|C:\\DAM2\\M08\\UF3\\space_shooter\\assets\\scripts\\shootscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6D40A6-EB4C-AA94-F563-2C2FE5050EAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shootscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6D40A6-EB4C-AA94-F563-2C2FE5050EAD}|Assembly-CSharp.csproj|C:\\DAM2\\M08\\UF3\\space_shooter\\assets\\scripts\\gamecontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6D40A6-EB4C-AA94-F563-2C2FE5050EAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6D40A6-EB4C-AA94-F563-2C2FE5050EAD}|Assembly-CSharp.csproj|C:\\DAM2\\M08\\UF3\\space_shooter\\assets\\scripts\\deleteshootframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6D40A6-EB4C-AA94-F563-2C2FE5050EAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deleteshootframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:468822040:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1782758433:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:927045476:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1248672248:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{905da7d1-18fd-4a46-8d0f-a5ff58ada9de}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthListener.cs",
+              "DocumentMoniker": "C:\\DAM2\\M08\\UF3\\space_shooter\\Assets\\Scripts\\HealthListener.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthListener.cs",
+              "ToolTip": "C:\\DAM2\\M08\\UF3\\space_shooter\\Assets\\Scripts\\HealthListener.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:12:41.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthBarScript.cs",
+              "DocumentMoniker": "C:\\DAM2\\M08\\UF3\\space_shooter\\Assets\\Scripts\\HealthBarScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBarScript.cs",
+              "ToolTip": "C:\\DAM2\\M08\\UF3\\space_shooter\\Assets\\Scripts\\HealthBarScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBarScript.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAxwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:00:20.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuControllerScript.cs",
+              "DocumentMoniker": "C:\\DAM2\\M08\\UF3\\space_shooter\\Assets\\Scripts\\MenuControllerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuControllerScript.cs",
+              "ToolTip": "C:\\DAM2\\M08\\UF3\\space_shooter\\Assets\\Scripts\\MenuControllerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuControllerScript.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:31:06.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsteroidScript.cs",
+              "DocumentMoniker": "C:\\DAM2\\M08\\UF3\\space_shooter\\Assets\\Scripts\\AsteroidScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AsteroidScript.cs",
+              "ToolTip": "C:\\DAM2\\M08\\UF3\\space_shooter\\Assets\\Scripts\\AsteroidScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AsteroidScript.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwCYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:16:26.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameControllerScript.cs",
+              "DocumentMoniker": "C:\\DAM2\\M08\\UF3\\space_shooter\\Assets\\Scripts\\GameControllerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameControllerScript.cs",
+              "ToolTip": "C:\\DAM2\\M08\\UF3\\space_shooter\\Assets\\Scripts\\GameControllerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameControllerScript.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:52:09.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteShootFrame.cs",
+              "DocumentMoniker": "C:\\DAM2\\M08\\UF3\\space_shooter\\Assets\\Scripts\\DeleteShootFrame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeleteShootFrame.cs",
+              "ToolTip": "C:\\DAM2\\M08\\UF3\\space_shooter\\Assets\\Scripts\\DeleteShootFrame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeleteShootFrame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:39:22.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShootScript.cs",
+              "DocumentMoniker": "C:\\DAM2\\M08\\UF3\\space_shooter\\Assets\\Scripts\\ShootScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShootScript.cs",
+              "ToolTip": "C:\\DAM2\\M08\\UF3\\space_shooter\\Assets\\Scripts\\ShootScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShootScript.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:35:41.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

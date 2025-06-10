@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|c:\\dam2\\m08\\uf3\\dungeonmaster\\dungeonmaster\\assets\\scripts\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\assets\\scripts\\healthcontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthcontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\assets\\scripts\\tailingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tailingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\assets\\scripts\\characterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\assets\\scripts\\mazegeneratorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mazegeneratorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|c:\\dam2\\m08\\uf3\\dungeonmaster\\dungeonmaster\\assets\\scripts\\portalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|c:\\dam2\\m08\\uf3\\dungeonmaster\\dungeonmaster\\assets\\scripts\\keyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\assets\\scripts\\keyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\assets\\scripts\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\assets\\scripts\\portalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A34C1E1-E5FE-0358-5C80-15B7D5944853}|Assembly-CSharp.csproj|C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\assets\\scripts\\fireballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,33 +82,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthControllerScript.cs",
+              "DocumentMoniker": "C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\Assets\\Scripts\\HealthControllerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthControllerScript.cs",
+              "ToolTip": "C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\Assets\\Scripts\\HealthControllerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthControllerScript.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:22:23.219Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TailingScript.cs",
+              "DocumentMoniker": "C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\Assets\\Scripts\\TailingScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TailingScript.cs",
+              "ToolTip": "C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\Assets\\Scripts\\TailingScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TailingScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:16:39.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharacterScript.cs",
+              "DocumentMoniker": "C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\Assets\\Scripts\\CharacterScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterScript.cs",
+              "ToolTip": "C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\Assets\\Scripts\\CharacterScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:21:13.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "KeysController.cs",
               "DocumentMoniker": "C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\Assets\\Scripts\\KeysController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KeysController.cs",
               "ToolTip": "C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\Assets\\Scripts\\KeysController.cs",
               "RelativeToolTip": "Assets\\Scripts\\KeysController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwDIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T17:31:10.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T17:31:10.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MenuScript.cs",
               "DocumentMoniker": "C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\Assets\\Scripts\\MenuScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MenuScript.cs",
               "ToolTip": "C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\Assets\\Scripts\\MenuScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\MenuScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T13:59:03.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "PortalController.cs",
               "DocumentMoniker": "C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\Assets\\Scripts\\PortalController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PortalController.cs",
@@ -104,25 +151,23 @@
               "RelativeToolTip": "Assets\\Scripts\\PortalController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T13:12:18.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T13:12:18.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MazeGeneratorScript.cs",
               "DocumentMoniker": "C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\Assets\\Scripts\\MazeGeneratorScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MazeGeneratorScript.cs",
               "ToolTip": "C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\Assets\\Scripts\\MazeGeneratorScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\MazeGeneratorScript.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAgwJEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAgwI4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T16:04:14.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T16:04:14.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "FireBallController.cs",
               "DocumentMoniker": "C:\\DAM2\\M08\\UF3\\DungeonMaster\\DungeonMaster\\Assets\\Scripts\\FireBallController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FireBallController.cs",
@@ -130,8 +175,7 @@
               "RelativeToolTip": "Assets\\Scripts\\FireBallController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAYwBoAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T18:03:17.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T18:03:17.391Z"
             }
           ]
         },

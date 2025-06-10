@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class HealthControllerScript : MonoBehaviour
@@ -30,8 +31,16 @@ public class HealthControllerScript : MonoBehaviour
     //Negative
     internal void UpdateHealth(int healthScript)
     {
-        //Mantiene el valor entre los dos del final
-        Health = Math.Clamp(Health + healthScript, 0, MaxHealth);
+        //Si el personaje se queda sin vida se acaba el juego
+        if((Health + healthScript) <= 0 )
+        {
+            SceneManager.LoadScene("GameOver");
+        }
+        else
+        {
+            //Mantiene el valor entre los dos del final
+            Health = Math.Clamp(Health + healthScript, 0, MaxHealth);
+        }
 
     }
 

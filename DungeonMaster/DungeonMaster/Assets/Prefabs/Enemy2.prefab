@@ -221,6 +221,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MaxHealth: 200
+  IamBoss: 0
 --- !u!1 &7854400700500391648 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2715566404302941441, guid: db36863963a13b540864de36d77e2dd5, type: 3}

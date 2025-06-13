@@ -894,6 +894,7 @@ MonoBehaviour:
   AuxHeart: {fileID: 4886666053939953387, guid: a94c615cc20dacc439e1ca399d6a7924, type: 3}
   AuxKey: {fileID: 4634096942349804130, guid: 025823579af5321498293f2a1a911dda, type: 3}
   AuxPortal: {fileID: 2584452395089272109, guid: c47f076d429ab9e44baace9fdb05f329, type: 3}
+  AuxBoss: {fileID: 5703096367995223050, guid: 1cb835f148fd03a4180d95a7d0ff95ec, type: 3}
   N: 100
   SIZE: 100
   MaxHearts: 20

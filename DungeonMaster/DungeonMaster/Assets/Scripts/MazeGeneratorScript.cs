@@ -52,6 +52,9 @@ public class MazeGeneratorScript : MonoBehaviour
     public Transform AuxKey;
 
     public Transform AuxPortal;
+    public Transform AuxBoss;
+
+    
 
     // {0.7, 0.2, 0.1}
     //public float[] probabilitiesRooms;
@@ -138,6 +141,8 @@ public class MazeGeneratorScript : MonoBehaviour
         AddMiddleRoomElements(MaxHearts, AuxHeart);
 
         AddMiddleRoomElements(MaxKeys, AuxKey);
+
+        AddMiddleRoomElements(1, AuxBoss, 0);
 
         //Add portal!
         Transform PortalInstance = AddMiddleRoomElements(1, AuxPortal, 0);
